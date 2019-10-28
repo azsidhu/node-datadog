@@ -1,0 +1,23 @@
+{
+  "name": "node-datadog",
+  "version": "1.0.0",
+  "description": "This package provides methods to send logs from node to datadog.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azsidhu/node-datadog.git"
+  },
+  "keywords": [
+    "node",
+    "datadog",
+    "logs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
