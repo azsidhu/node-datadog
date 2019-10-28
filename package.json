@@ -1,5 +1,5 @@
 {
-  "name": "node-datadog",
+  "name": "node-datadog-logging",
   "version": "1.0.0",
   "description": "This package provides methods to send logs from node to datadog.",
   "main": "index.js",
